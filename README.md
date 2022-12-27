@@ -47,3 +47,4 @@ Here are some ideas to get you started:
 
 ### Feedback
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilya_mixaltik)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/ilya_mixaltik)
