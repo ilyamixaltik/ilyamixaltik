@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ilyamixaltik&theme=dark&show_icons=true&count_private=true)
 
+![Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=ilya_mixaltik&theme=dark&locale=en&layout=compact#gh-dark-mode-only)
+
 ### Languages & Tools
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
