@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Hi there. My Name is Ilya Mixaltik 👋
 [![wakatime](https://wakatime.com/badge/user/a40f6f25-efba-4270-8d6e-3c25acb4eb64.svg)](https://wakatime.com/@a40f6f25-efba-4270-8d6e-3c25acb4eb64)
-
-### My Name is Ilya Mixaltik
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamixaltik&theme=dark&layout=compact) -->
 
