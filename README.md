@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamixaltik&theme=dark&layout=compact) -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ilyamixaltik&theme=dark&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ilyamixaltik&include_all_commits=true&theme=dark&show_icons=true&count_private=true)
 
 ![Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=ilya_mixaltik&theme=dark&locale=en&layout=compact#gh-dark-mode-only)
 
