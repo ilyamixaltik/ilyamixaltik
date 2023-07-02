@@ -38,10 +38,10 @@ My Resume: https://ilyamixaltik.github.io/resume
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 
-<!-- ![Mongoose](https://mongoosejs.com) -->
-<!-- ![Typegoose](https://typegoose.github.io/typegoose) -->
-<!-- ![TypeORM](https://typeorm.io) -->
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io)
+[![TypeORM](https://img.shields.io/badge/TypeORM-FF6600?style=for-the-badge&logo=TypeORM&logoColor=white)](https://typeorm.io)
+[![Mongoose](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=)](https://mongoosejs.com)
+[![Typegoose](https://img.shields.io/badge/-Typegoose-%23Clojure?style=for-the-badge&logo=typegoose&logoColor=white)](https://typegoose.github.io/typegoose)
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org)
 
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com)
