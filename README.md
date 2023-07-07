@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![MasterHead](./header.png)](https://github.com/ilya_mixaltik)
 
-### Hi there. My Name is Ilya Mixaltik 👋
 [![wakatime](https://wakatime.com/badge/user/a40f6f25-efba-4270-8d6e-3c25acb4eb64.svg?style=for-the-badge)](https://wakatime.com/@a40f6f25-efba-4270-8d6e-3c25acb4eb64)
 
 My Resume: https://ilyamixaltik.github.io/resume
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamixaltik&theme=dark&layout=compact) -->
 
-![Github stats](https://github-stats-9ic8kt007-ilyamixaltik.vercel.app/api?username=ilyamixaltik&include_all_commits=true&theme=dark&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ilyamixaltik&include_all_commits=true&theme=dark&show_icons=true&count_private=true)
 
 ![Wakatime stats-Dark](https://github-stats-8vzrrvisq-ilyamixaltik.vercel.app/api/wakatime?username=ilya_mixaltik&theme=dark&locale=en&layout=compact#gh-dark-mode-only)
 
