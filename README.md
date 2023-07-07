@@ -20,9 +20,9 @@ My Resume: https://ilyamixaltik.github.io/resume
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamixaltik&theme=dark&layout=compact) -->
 
-![Github stats](https://github-stats-psi-rouge.vercel.app/api?username=ilyamixaltik&include_all_commits=true&theme=dark&show_icons=true&count_private=true)
+![Github stats](https://github-stats-9ic8kt007-ilyamixaltik.vercel.app/api?username=ilyamixaltik&include_all_commits=true&theme=dark&show_icons=true&count_private=true)
 
-![Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=ilya_mixaltik&theme=dark&locale=en&layout=compact#gh-dark-mode-only)
+![Wakatime stats-Dark](https://github-stats-8vzrrvisq-ilyamixaltik.vercel.app/api/wakatime?username=ilya_mixaltik&theme=dark&locale=en&layout=compact#gh-dark-mode-only)
 
 ### Languages & Tools
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
