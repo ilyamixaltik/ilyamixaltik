@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](./header.png)](https://github.com/ilyamixaltik)
+<!-- [![MasterHead](./header.png)](https://github.com/ilyamixaltik) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=2000&size=32&duration=3000&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Welcome!+;Did+you+take+a+peek+into+my+codebase%3F;May+your+projects+always+compile+error-free%2C;and+your+commits+fly+at+lightning+speed.;Welcome+to+my+digital+realm!)](https://git.io/typing-svg)
 
 ![Counter viewers](https://komarev.com/ghpvc/?username=ilyamixaltik&color=brightgreen&style=for-the-badge)
 [![wakatime](https://wakatime.com/badge/user/a40f6f25-efba-4270-8d6e-3c25acb4eb64.svg?style=for-the-badge)](https://wakatime.com/@a40f6f25-efba-4270-8d6e-3c25acb4eb64)
