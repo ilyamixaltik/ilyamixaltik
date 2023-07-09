@@ -20,7 +20,7 @@ My Resume: https://ilyamixaltik.github.io/resume
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamixaltik&theme=dark&layout=compact) -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ilyamixaltik&include_all_commits=true&theme=dark&show_icons=true&count_private=true)
+![Github stats](https://github-stats-git-main-ilyamixaltik.vercel.app/api?username=ilyamixaltik&include_all_commits=true&theme=dark&show_icons=true&count_private=true)
 
 ![Wakatime stats-Dark](https://github-stats-8vzrrvisq-ilyamixaltik.vercel.app/api/wakatime?username=ilya_mixaltik&theme=dark&locale=en&layout=compact#gh-dark-mode-only)
 
