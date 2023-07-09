@@ -12,17 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](./header.png)](https://github.com/ilya_mixaltik)
+[![MasterHead](./header.png)](https://github.com/ilyamixaltik)
 
+![Counter viewers](https://komarev.com/ghpvc/?username=ilyamixaltik&color=brightgreen&style=for-the-badge)
 [![wakatime](https://wakatime.com/badge/user/a40f6f25-efba-4270-8d6e-3c25acb4eb64.svg?style=for-the-badge)](https://wakatime.com/@a40f6f25-efba-4270-8d6e-3c25acb4eb64)
 
 My Resume: https://ilyamixaltik.github.io/resume
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamixaltik&theme=dark&layout=compact) -->
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilyamixaltik&theme=dark)](https://git.io/streak-stats)
+
 ![Github stats](https://github-stats-git-main-ilyamixaltik.vercel.app/api?username=ilyamixaltik&include_all_commits=true&theme=dark&show_icons=true&count_private=true)
 
 ![Wakatime stats-Dark](https://github-stats-8vzrrvisq-ilyamixaltik.vercel.app/api/wakatime?username=ilya_mixaltik&theme=dark&locale=en&layout=compact#gh-dark-mode-only)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ilyamixaltik&theme=alduin&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ### Languages & Tools
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
